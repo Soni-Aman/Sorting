@@ -29,5 +29,6 @@ public class NewSort {
         for(int i:arr1){    
             System.out.print(i+" ");    
         }    
-    }    
-}
+}}
+
+	
